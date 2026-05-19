@@ -1,0 +1,14 @@
+<svg width="1400" height="1100" viewBox="0 0 1400 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="1100" fill="#E9DCCB"/>
+  <circle cx="270" cy="176" r="210" fill="#CDA784"/>
+  <rect x="118" y="112" width="1164" height="876" rx="48" fill="#FEF8F0"/>
+  <rect x="164" y="166" width="1072" height="768" rx="30" fill="#F4EBDD"/>
+  <text x="230" y="302" fill="#382419" font-family="Georgia, serif" font-size="98" letter-spacing="-2">Catalogo Comedor</text>
+  <text x="234" y="372" fill="#7C624C" font-family="Arial, sans-serif" font-size="28" letter-spacing="6">PRECIOS MAYORISTAS SIN IVA</text>
+  <rect x="236" y="482" width="522" height="108" rx="32" fill="#8C684C"/>
+  <rect x="286" y="566" width="44" height="216" rx="20" fill="#70513D"/>
+  <rect x="670" y="566" width="44" height="216" rx="20" fill="#70513D"/>
+  <rect x="860" y="486" width="136" height="252" rx="42" fill="#CCAA87"/>
+  <rect x="1032" y="486" width="136" height="252" rx="42" fill="#B88965"/>
+  <text x="236" y="846" fill="#382419" font-family="Arial, sans-serif" font-size="30">Mesas, sillas y conjuntos listos para rotacion.</text>
+</svg>
